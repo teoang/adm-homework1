@@ -2,8 +2,6 @@
 
 Algorithmic Methods of Data Mining, Sapienza University of Rome, academic year 2026-2027.
 
-This repository contains my solutions to **9 completed HackerRank exercises**. All 9 selected submissions have status **Accepted**, for a total of **95 points**. It includes the 7 Introduction exercises and 2 Basic Data Types exercises.
-
 ## Contents
 
 - [solutions.ipynb](solutions.ipynb): one original accepted solution per code cell, with its submission link, example input and locally verified example output.
@@ -25,7 +23,7 @@ This repository contains my solutions to **9 completed HackerRank exercises**. A
 
 ## Running the notebook
 
-Open `solutions.ipynb` in Jupyter Notebook or JupyterLab with a Python 3 kernel. Run one exercise cell at a time and enter the lines shown under its example input. These solutions require only the Python standard library. The saved example outputs were verified by executing all solution cells locally with their documented inputs; the original submitted solution code is unchanged.
+Open `solutions.ipynb` in Jupyter Notebook or JupyterLab with a Python 3 kernel. Run one exercise cell at a time and enter the lines shown under its example input.
 
 ## Assignment
 
